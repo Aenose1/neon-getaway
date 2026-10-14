@@ -1,0 +1,23 @@
+{
+  "name": "neon-getaway",
+  "version": "1.2.0",
+  "type": "module",
+  "description": "Neon Getaway: Destruction Run - 2D browser driving, destruction, and police pursuit game",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve -l 3000 .",
+    "dev": "npx serve -l 3000 .",
+    "test": "node test/game-test.js",
+    "preview": "npx serve -l 3000 ."
+  },
+  "keywords": [
+    "game",
+    "canvas-2d",
+    "arcade-driving",
+    "smash-bandits",
+    "police-chase",
+    "neon-getaway"
+  ],
+  "author": "Antigravity Engineering",
+  "license": "MIT"
+}
