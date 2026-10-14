@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # NEON GETAWAY: DESTRUCTION RUN 🏎️💥
 
 > **A high-octane 2D/2.5D browser arcade getaway driving game inspired by the mechanics and spirit of Smash Bandits Racing.**
@@ -267,3 +268,6 @@ npx serve -l 3000 .
 - [x] **28. Production build completes without unresolved errors:** Verified with `node test/game-test.js` (0 errors).
 - [x] **29. No required assets are missing:** Procedural audio & canvas graphics ensure 100% self-contained operation.
 - [x] **30. GitHub-ready project can be uploaded and deployed:** Git repository initialized, committed, and ready.
+=======
+# neon-getaway
+>>>>>>> 6aad891942d4e4b239e3cdcb2de7fb9f9bc7dbdc
